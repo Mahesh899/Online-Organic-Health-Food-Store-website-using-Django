@@ -1,0 +1,61 @@
+.fnt16 {
+    font-size: 16px !important;
+    color: #6d6050 !important;
+    font-weight: 500;
+}
+
+a.nav-link.fnt16:hover {
+    color: black !important;
+    ;
+}
+
+.brdbtm {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+    height: 50px !important;
+}
+
+.navIcon {
+    font-size: 18px !important;
+}
+
+.cart {
+    position: relative;
+    display: inline-block;
+}
+
+.cart .badge {
+    position: absolute;
+    top: 0;
+    right: -10px;
+
+    text-align: center;
+}
+
+.sticky {
+    position: fixed !important;
+    top: 0;
+}
+
+.catItem:hover {
+    color: black !important;
+}
+
+.priceC {
+    color: #00b853 !important;
+}
+
+.zoom1 {
+    overflow: hidden !important;
+}
+
+.zoom1:hover {
+    transform: scale(1.2);
+
+}
+
+.cursor {
+    cursor: pointer;
+}
